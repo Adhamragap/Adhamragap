@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adhamragap
 - 👀 I’m interested in iOS Mobile Application
 - 🌱 I’m currently learning in final semester in faculty of computer and information science mansoura university
-- 💞️ I’m looking to collaborate on a people team to help me for developing our selfes
+- 💞️ I’m looking to collaborate on a team to help me for develop my self
 - 📫 How to reach me 
 -    gmail: adhamr192@gmail.com
 -    phone: 01275395377
